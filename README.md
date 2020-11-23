@@ -1,2 +1,2 @@
-# projekt
+# project
 first project
